@@ -1,0 +1,5 @@
+# RollTheDie
+RollTheDie 
+Roll the die by refreshing the page.
+Helps you stop overthinking when you 2 options to choose from.
+(What happens if its a tie?)
