@@ -1,5 +1,4 @@
-# RollTheDie
-RollTheDie 
+# RollTheDie 
 Roll the die by refreshing the page.
 
 Helps you stop overthinking when you have 2 options to choose from.
